@@ -1,0 +1,10 @@
+install.packages(c(
+  "tidyverse",
+  "haven",
+  "poLCA",
+  "FactoMineR",
+  "factoextra",
+  "caret",
+  "pROC",
+  "ca"
+))
