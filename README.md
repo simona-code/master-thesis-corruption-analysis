@@ -50,10 +50,13 @@ The dataset is not included in this repository due to licensing restrictions.
 ## Repository Structure
 
 ```
-analysis.R
+README.md
+requirements.R
+.gitignore
 data/
 figures/
 results/
+scripts/
 ```
 
 ---
